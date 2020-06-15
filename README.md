@@ -13,4 +13,7 @@
     <li>EasyEnsembleClassifier*</li>
     <li>Balance Cascade*</li>
     <li>Using Recall to measure accuracy</li>
+    <li>Performed Logistic Regression for all the preprocessed data</li>
+    <li>Used Recall Score as metric to measure how well the model is performing!</li>
 </ol>
+<h3>* - Needs to be Implemented!</h3>

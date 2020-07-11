@@ -34,4 +34,4 @@ The dataset used can be downloaded here (Kaggle) - [Click to Download](https://w
 Made with :heart:&nbsp;  by [Sahil Chachra](https://github.com/SahilChachra)
 
 ## :eyes: License
-MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)
+MIT © [Sahil Chachra](https://github.com/SahilChachra/Handling-Imbalanced-Dataset/blob/master/LICENSE)

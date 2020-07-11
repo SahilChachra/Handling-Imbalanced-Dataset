@@ -2,7 +2,7 @@
 
 <div align= "center">
   <h4>This project shows how we can handle imbalanced dataset using various methods!</h4><br>
-  <img src="">
+  <img src="https://github.com/SahilChachra/Handling-Imbalanced-Dataset/blob/master/sampleImage/neurotech.gif">
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

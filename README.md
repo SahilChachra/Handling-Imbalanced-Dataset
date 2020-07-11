@@ -1,7 +1,16 @@
-<H1 style="font-family: Arial, Helvetica, sans-serif;">Handling Imbalanced Dataset</H1>
-<H3 style="font-family: Arial, Helvetica, sans-serif;">Dataset used is - Credit Card Fraud from Kaggle. The CSV file used is 143MB in size, hence did not uploaded in the repo.</H2>
-<H3 style="font-family: Arial, Helvetica, sans-serif;">Credit Card Fraud Dataset from Kaggle : <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">Link</a></H3>
-<H2 style="font-family: cursive;"> Topic Covered : </H2>
+<h1 align="center">Handling Imbalanced Dataset</h1>
+
+<div align= "center">
+  <h4>This project shows how we can handle imbalanced dataset using various methods!</h4><br>
+  <img src="">
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## :innocent: Motivation
+I have been learning Machine Learning and I have come across few datasets which were so imbalanced that I just got stuck in the very beginning. So I thought of coming with few ways to handle them and make something like a tutorial. So here it is! :D
+
+## :star: Features
 <ol style="font-family: cursive; font-size: 20px;">
     <li>Under-sampling</li>
     <li>Over-sampling</li>
@@ -17,3 +26,12 @@
     <li>Used Recall Score as metric to measure how well the model is performing!</li>
 </ol>
 <h3>* - Needs to be Implemented!</h3>
+
+## :file_folder: Dataset
+The dataset used can be downloaded here (Kaggle) - [Click to Download](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
+## :heart: Owner
+Made with :heart:&nbsp;  by [Sahil Chachra](https://github.com/SahilChachra)
+
+## :eyes: License
+MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)

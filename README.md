@@ -2,7 +2,9 @@
 
 <div align= "center">
   <h4>This project shows how we can handle imbalanced dataset using various methods!</h4><br>
+
   <img src="https://github.com/SahilChachra/Handling-Imbalanced-Dataset/blob/master/sampleImage/neurotech.gif">
+
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,13 +21,12 @@ I have been learning Machine Learning and I have come across few datasets which 
     <li>Tomek links</li>
     <li>SMOTE</li>
     <li>Over-sampling followed by under-sampling</li>
-    <li>EasyEnsembleClassifier*</li>
-    <li>Balance Cascade*</li>
+</ol>
+<ul>
     <li>Using Recall to measure accuracy</li>
     <li>Performed Logistic Regression for all the preprocessed data</li>
     <li>Used Recall Score as metric to measure how well the model is performing!</li>
-</ol>
-<h3>* - Needs to be Implemented!</h3>
+</ul>
 
 ## :file_folder: Dataset
 The dataset used can be downloaded here (Kaggle) - [Click to Download](https://www.kaggle.com/mlg-ulb/creditcardfraud)
@@ -34,4 +35,6 @@ The dataset used can be downloaded here (Kaggle) - [Click to Download](https://w
 Made with :heart:&nbsp;  by [Sahil Chachra](https://github.com/SahilChachra)
 
 ## :eyes: License
+=======
 MIT © [Sahil Chachra](https://github.com/SahilChachra/Handling-Imbalanced-Dataset/blob/master/LICENSE)
+

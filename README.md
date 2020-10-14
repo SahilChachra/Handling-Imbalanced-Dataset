@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## :innocent: Motivation
-I have been learning Machine Learning and I have come across few datasets which were so imbalanced that I just got stuck in the very beginning. So I thought of coming with few ways to handle them and make something like a tutorial. So here it is! :D
+While learning Machine Leanring, I came across few datasets which were highly imbalanced which resulted in me getting stuck in the very beginning. So I thought of making a notebook which will help in quickly refering and revising different ways to handle imbalanced datasets.
 
 ## :star: Features
 <ol style="font-family: cursive; font-size: 20px;">
